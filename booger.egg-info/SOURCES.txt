@@ -1,0 +1,10 @@
+README.md
+setup.py
+booger.egg-info/PKG-INFO
+booger.egg-info/SOURCES.txt
+booger.egg-info/dependency_links.txt
+booger.egg-info/top_level.txt
+snot/__init__.py
+snot/hello.py
+tests/__init__.py
+tests/test_hello.py
